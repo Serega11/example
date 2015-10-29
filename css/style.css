@@ -1272,6 +1272,13 @@ ol
 	list-style-position:inside;
 	
 }
+p
+{
+	color: #0E191B;
+	margin:1em 0 1em 2em;
+	padding:0;
+	color: #2A6D7E;
+}
 
 
 
